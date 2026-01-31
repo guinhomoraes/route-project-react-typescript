@@ -74,7 +74,7 @@ Antes de iniciar, você precisa ter instalado:
 git clone https://github.com/guinhomoraes/route-project-react-typescript
 
 # Acesse o diretório do projeto
-cd react-router-ts
+cd route-project-react-typescript
 
 # Instale as dependências
 npm install
