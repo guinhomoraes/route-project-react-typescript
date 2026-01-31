@@ -71,7 +71,7 @@ Antes de iniciar, você precisa ter instalado:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/react-router-ts.git
+git clone https://github.com/guinhomoraes/route-project-react-typescript
 
 # Acesse o diretório do projeto
 cd react-router-ts
